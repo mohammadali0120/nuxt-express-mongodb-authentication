@@ -1,6 +1,6 @@
 # A Nuxt.js and Express.js authentication app
 
-### Refresh token does not implement for the back-end!
+### Refresh token does not implemented for the back-end!
 
 Front-end has implemented by these features:
 
