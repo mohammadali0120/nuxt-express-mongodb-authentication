@@ -24,7 +24,7 @@ and Back-end has implemented by these features:
 # 
 ### How to run Front-end and Back-end projects?
 
-For starting the Expres.js project 
+For starting the Expres.js project: 
 
 * npm install 
 
