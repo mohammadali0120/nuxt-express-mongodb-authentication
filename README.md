@@ -19,7 +19,7 @@ and Back-end has implemented by these features:
 * Mongoose ORM
 * JWT authentication
 * Access Token supported
-* Refresh token does not implement for the back-end!
+* Refresh token does not implemented for the back-end!
 
 # 
 ### How to run Front-end and Back-end projects?
