@@ -9,7 +9,7 @@ Front-end has implemented by these features:
 * Nuxt.js Auth Module
 * JWT authentication
 * Access Token supported
-* Refresh Token supported
+* Refresh Token supported, but its commented because Back-end does not support it. 
 
 and Back-end has implemented by these features:
 
